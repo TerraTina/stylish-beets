@@ -53,6 +53,10 @@ blockquote > p strong {
   font-weight: normal;
 }
 
+footer {
+  font-size: 0.8rem;
+}
+
 h2 + ol {
   list-style: lower-greek;
 }
@@ -67,8 +71,4 @@ dt {
 
 aside > ul {
   list-style-type: circle;
-}
-
-small {
-  font-size: 0.8rem;
 }
